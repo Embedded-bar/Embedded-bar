@@ -1,5 +1,5 @@
 # Embedded bar
-![Embedded bar logo](img/logo/Embedded%20bar%20black%20transparent.png){ width="192" }
+![Embedded bar logo](img/logo/Embedded_bar_black_transparent.png){ width="192" }
 Почему все современные митапы такие скучные?  
   
 Потому что там нет пива!  
@@ -29,23 +29,3 @@
 branches
 
 Если ближайший бар слишком далеко, возможно, пора организовать его самостоятельно. Подробные инструкции в /instructions, помимо этого, другие организаторы готовы помочь.
-
-## Локальное разворачивание документации
-
-Создайте окружение **python**:
-
-```bash
-python -m venv venv
-```
-
-Активируйте окружение:
-
-```bash
-source venv/bin/activate
-```
-
-Установите пакеты для сборки документации:
-
-```bash
-pip install -r requirements.txt
-```
