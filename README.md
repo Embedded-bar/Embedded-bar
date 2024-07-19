@@ -49,3 +49,11 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+Соберите документацию:
+
+```bash
+mkdocs serve
+```
+
+После чего можно открыть в браузере адрес: http://127.0.0.1:8000/
