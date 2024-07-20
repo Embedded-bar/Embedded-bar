@@ -2,9 +2,9 @@ name: Docs
 
 on:
   workflow_dispatch: # allow manual trigger
-  # push:
-  #   branches:
-  #     - main
+  push:
+    branches:
+      - main
 
 jobs:
   docs: 
