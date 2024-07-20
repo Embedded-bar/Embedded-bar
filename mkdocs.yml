@@ -7,7 +7,7 @@ docs_dir: ./docs
 
 # Repository
 repo_name: Embedded-bar/Embedded-bar
-repo_url: https://github.com/Embedded-bar/Embedded-bar/
+repo_url: https://github.com/Embedded-bar/Embedded-bar
 
 theme:
   name: material
