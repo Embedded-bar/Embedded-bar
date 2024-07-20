@@ -1,5 +1,9 @@
 # Embedded bar
-![Embedded bar logo](img/logo/Embedded_bar_black_transparent.png){ width="192" }
+
+<figure markdown="span">
+  ![HardPy logo](img/Embedded_bar_black_transparent.png){ width="192" }
+</figure>
+
 Почему все современные митапы такие скучные?  
   
 Потому что там нет пива!  
