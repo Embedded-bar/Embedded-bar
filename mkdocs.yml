@@ -1,9 +1,9 @@
 # Project information
-site_name: Embedde bar
+site_name: Embedded bar
 site_url: https://embedded-bar.github.io/Embedded-bar/
 site_author: Embedded bar
 site_dir: public
-docs_dir: ./instructions
+docs_dir: ./docs
 
 # Repository
 repo_name: Embedded-bar/Embedded-bar
@@ -11,12 +11,13 @@ repo_url: https://github.com/Embedded-bar/Embedded-bar/
 
 theme:
   name: material
-  logo: img/logo/Embedded bar logo for Github.png
-  favicon: img/logo/Embedded bar logo for Github.png
+  language: ru
+  logo: img/logo/Embedded_bar_logo_for_Github.png
+  favicon: img/logo/Embedded_bar_logo_for_Github.png
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: blue
+    accent: deep purple
   features:
     - announce.dismiss
     - content.action.edit
@@ -43,23 +44,17 @@ theme:
     position: top
 
 nav:
-  - Embedded bar: ../README.md
-  - Правила бара: ../Правила Embedded bar.md
+  - Embedded bar: index.md
+  - Правила бара: rules/embedded_bar_rules.md
   - Инструкции:
-    - Structure: documentation/structure.md
-    - Database: documentation/database.md
-    - Pytest-hardpy: documentation/pytest_hardpy.md
-    - HardPy panel: documentation/hardpy_panel.md
-  - Examples:
-    - Hello HardPy: examples/hello_hardpy.md
-    - CouchDB load: examples/couchdb_load.md
-    - Minute parity: examples/minute_parity.md
-    - Multiple stands: examples/multiple_stands.md
-    - Skip test: examples/skip_test.md
-    - CouchDB in RAM: examples/db_in_ram.md
-  - About:
-    - Development: about/development.md
-  - Changelog: changelog.md
+    - Вступительная речь: instructions/opening_speech.md
+    - Как проходит бар: instructions/bar_passing.md
+    - Памятка спикера Embedded Bar: instructions/speaker_guide.md
+    - Поиск помещения: instructions/room_search.md
+    - Работа со спикерами: instructions/working_with_speakers.md
+    - Рассылки: instructions/mailing_list.md
+    - Чеклист перед началом: instructions/checklist.md
+  - Работа с репозиторием: repository.md
 
 markdown_extensions:
   - footnotes
