@@ -12,12 +12,12 @@ repo_url: https://github.com/Embedded-bar/Embedded-bar/
 theme:
   name: material
   language: ru
-  logo: img/logo/Embedded bar logo for Github.png
-  favicon: img/logo/Embedded bar logo for Github.png
+  logo: img/logo/Embedded_bar_logo_for_Github.png
+  favicon: img/logo/Embedded_bar_logo_for_Github.png
   palette:
     scheme: default
-    primary: indigo
-    accent: indigo
+    primary: blue
+    accent: deep purple
   features:
     - announce.dismiss
     - content.action.edit
@@ -54,6 +54,7 @@ nav:
     - Работа со спикерами: instructions/working_with_speakers.md
     - Рассылки: instructions/mailing_list.md
     - Чеклист перед началом: instructions/checklist.md
+  - Работа с репозиторием: repository.md
 
 markdown_extensions:
   - footnotes
