@@ -1,7 +1,7 @@
 # Embedded bar
 
 <figure markdown="span">
-  ![Embedded bar logo](img/logo/Embedded_bar_color.png){ width="512" }
+  ![Embedded bar logo](img/logo/Embedded_bar_color.png){ width="300" }
 </figure>
 
 Почему все современные митапы такие скучные?  
