@@ -44,7 +44,8 @@ theme:
     position: top
 
 nav:
-  - Embedded bar: index.md
+  - Embedded bar: 
+    - Embedded bar: index.md
     - Найти бар: locations.md
   - Правила бара: rules/embedded_bar_rules.md
   - Инструкции:
