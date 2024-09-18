@@ -46,7 +46,8 @@ theme:
 nav:
   - Embedded bar: 
     - Embedded bar: index.md
-    - Найти бар: locations.md
+    - Найти бар:
+      - Санкт-Петребург: Saint Petersburg.md
   - Правила бара: rules/embedded_bar_rules.md
   - Инструкции:
     - Вступительная речь: instructions/opening_speech.md
