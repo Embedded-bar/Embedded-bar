@@ -50,7 +50,6 @@
 
 #### Организатор
 Дмитрий Сазанов, [tg @Kudimka](https://t.me/Kudimka)
-Иван Ларионов, [tg @ioanlarionov](https://t.me/ioanlarionov)
 
 ## Финляндия
 
