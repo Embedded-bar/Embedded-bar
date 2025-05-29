@@ -49,6 +49,18 @@
 - [Бар М10, Змај Јовина 4](https://www.google.com/maps/place/M10+Bar/data=!4m7!3m6!1s0x475a7b036197d06d:0xeb43a3af7f2a87a4!8m2!3d44.8166679!4d20.457092!16s%2Fg%2F11v61myqjr!19sChIJbdCXYQN7WkcRpIcqf6-jQ-s?authuser=0&hl=ru&rclk=1)
 
 #### Организатор
+Дмитрий Сазанов, [tg @Kudimka](https://t.me/Kudimka)
 Иван Ларионов, [tg @ioanlarionov](https://t.me/ioanlarionov)
 
+## Финляндия
 
+### Хельсинки
+
+#### Мероприятия
+- 6 июня 2024
+
+#### Локация
+- [m8s](https://www.google.com/maps/place/M8S+HUB+%26+STUDIO/@60.183514,24.9772672,17z/data=!3m1!4b1!4m6!3m5!1s0x469209c4490f7959:0x613485f973be5943!8m2!3d60.183514!4d24.9772672!16s%2Fg%2F11y43yh0dz?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
+
+#### Организатор
+Иван Ларионов, [tg @ioanlarionov](https://t.me/ioanlarionov)
