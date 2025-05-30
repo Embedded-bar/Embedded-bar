@@ -1,65 +1,9 @@
-## Россия
-
-### Санкт-Петербург
-
-#### Мероприятия
-
-- ~~31 января 2025~~
-- ~~25 апреля 2025~~
-- 29 августа 2025
-
-#### Локация
-- Белоостровская, 23
-
-#### Организатор
-Анна Жегуло, [tg @bazzzuki](https://t.me/bazzzuki)
-
-### Москва
-
-#### Мероприятия
-- ~~16 апреля 2025~~
-
-#### Локация
-- Красногорск, улица Согласия, 13
-
-#### Организатор
-Анна Жегуло, [tg @bazzzuki](https://t.me/bazzzuki)
-
-### Казань
-
-#### Мероприятия
-- ~~9 сентября 2024~~
-- ~~4 апреля 2025~~
-
-#### Локация
-- ИТ-парк им. Б.Рамеева (Спартаковская 2)
-
-#### Организатор
-Евгений Мамаев, [tg @mamaev_ea](https://t.me/mamaev_ea)
-
-## Сербия
-
-### Белград
-
-#### Мероприятия
-- ~~7 июня 2024~~
-- ~~30 августа 2024~~
-
-#### Локация
-- [Бар М10, Змај Јовина 4](https://www.google.com/maps/place/M10+Bar/data=!4m7!3m6!1s0x475a7b036197d06d:0xeb43a3af7f2a87a4!8m2!3d44.8166679!4d20.457092!16s%2Fg%2F11v61myqjr!19sChIJbdCXYQN7WkcRpIcqf6-jQ-s?authuser=0&hl=ru&rclk=1)
-
-#### Организатор
-Дмитрий Сазанов, [tg @Kudimka](https://t.me/Kudimka)
-
-## Финляндия
-
-### Хельсинки
-
-#### Мероприятия
-- 6 июня 2025
-
-#### Локация
-- [m8s](https://www.google.com/maps/place/M8S+HUB+%26+STUDIO/@60.183514,24.9772672,17z/data=!3m1!4b1!4m6!3m5!1s0x469209c4490f7959:0x613485f973be5943!8m2!3d60.183514!4d24.9772672!16s%2Fg%2F11y43yh0dz?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoASAFQAw%3D%3D)
-
-#### Организатор
-Иван Ларионов, [tg @ioanlarionov](https://t.me/ioanlarionov)
+## Russia
+- [Санкт-Петербург](/cities/saint_petersburg.md)
+- [Москва](/cities/moscow.md)
+- [Казань](/cities/kazan.md)
+- [Новосибирск](/cities/novosibirsk.md)
+## Serbia
+- [Belgrade](/cities/belgrade.md)
+## Finland
+- [Helsinki](/cities/helsinki.md)
