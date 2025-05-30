@@ -1,9 +1,9 @@
 ## Russia
-- [Санкт-Петербург](/Embedded-bar/cities/saint_petersburg.md)
-- [Москва](/Embedded-bar/cities/moscow.md)
-- [Казань](/Embedded-bar/cities/kazan.md)
-- [Новосибирск](/Embedded-bar/cities/novosibirsk.md)
+- [Санкт-Петербург](/Embedded-bar/cities/saint_petersburg)
+- [Москва](/Embedded-bar/cities/moscow)
+- [Казань](/Embedded-bar/cities/kazan)
+- [Новосибирск](/Embedded-bar/cities/novosibirsk)
 ## Serbia
-- [Belgrade](/Embedded-bar/cities/belgrade.md)
+- [Belgrade](/Embedded-bar/cities/belgrade)
 ## Finland
-- [Helsinki](/Embedded-bar/cities/helsinki.md)
+- [Helsinki](/Embedded-bar/cities/helsinki)
